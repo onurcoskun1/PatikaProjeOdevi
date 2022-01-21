@@ -1,0 +1,15 @@
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\console programlamalar.exe
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\console programlamalar.deps.json
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\console programlamalar.runtimeconfig.json
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\console programlamalar.dll
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\ref\console programlamalar.dll
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\bin\Debug\net6.0\console programlamalar.pdb
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.csproj.AssemblyReference.cache
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.AssemblyInfoInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.AssemblyInfo.cs
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.csproj.CoreCompileInputs.cache
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.dll
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\ref\console programlamalar.dll
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.pdb
+C:\Users\Poseidon\Desktop\Pratikler\console programlamalar\obj\Debug\net6.0\console programlamalar.genruntimeconfig.cache
